@@ -352,7 +352,7 @@
       </g>
   </svg>
 
-  <h3>Add your company logout page via creating a pull request here: <a href="https://github.com/superlogout/superlogout.github.io">github.com/superlogout/superlogout.github.io</a></h3>
+  <h3>Your can request to add your company logout page via email</h3>
   <ul id="sitelist">
   </ul>
 </body>
