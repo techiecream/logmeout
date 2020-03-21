@@ -347,7 +347,7 @@
       </defs>
       <g>
         <text x="0" y="100">
-          SUPERLOGOUT
+          LOG ME OUT
         </text>
       </g>
   </svg>
