@@ -270,6 +270,7 @@
         ["ThePirateBay", get("https://thepiratebay.org/logout")],
         ["ThinkGeek", get("https://www.thinkgeek.com/brain/account/login.cgi?a=lo")],
         ["Threadless", get("http://www.threadless.com/logout")],
+	["TMIS", get("https://www.tmis.go.ug/account/logout")],
         ["Tumblr", get("http://www.tumblr.com/logout")],
         ["Testomato", get("http://www.testomato.com/logout")],
         ["Vimeo", get("http://vimeo.com/log_out")],
@@ -283,7 +284,6 @@
         ["Podio", get("https://podio.com/logout")],
         ["Codeanywhere", get("https://codeanywhere.com/logout")],
         ["NESCAFE Dolce Gusto", get("https://www.dolce-gusto.fr/customer/account/logout")],
-		["TMIS", get("https://www.tmis.go.ug/account/logout")],
         ["T411", get("http://www.t411.li/users/logout/")],
       ])
     };
