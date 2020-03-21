@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-  <title>Super Logout</title>
+  <title>Robin</title>
   <style>
 
     @import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
